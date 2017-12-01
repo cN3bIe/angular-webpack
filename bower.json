@@ -1,0 +1,23 @@
+{
+  "name": "angular-webpack",
+  "description": "Angular builder with webpack",
+  "main": "index.js",
+  "authors": [
+    "cN3bIe <0cn3bie0@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "webpack",
+    "webpack-dev-server"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
